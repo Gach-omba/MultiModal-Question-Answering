@@ -11,4 +11,7 @@ Create the vector db -> create a multimodal collection inside the database speci
   1. Create and log in to your Google Colab account (it's free :) )
   2. Create a folder images and upload to it the image files you want to index
   3. Run the cells in this notebook
+## Technologies used
+  1. transformers
+  2. chromadb
 
